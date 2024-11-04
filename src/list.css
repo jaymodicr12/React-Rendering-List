@@ -1,0 +1,16 @@
+
+
+
+
+.item-grid{
+    display: grid;
+    padding: 5px;
+    border: 1px solid red;
+    grid-template-columns: auto auto;
+    gap: 5px;
+}
+
+.item-box{
+    border: 1px solid black;
+    text-align: center;
+}
